@@ -1,0 +1,17 @@
+*.idea/
+cmake-build-debug/
+*.d
+*.o
+*.exe
+*.rar
+*.zip
+ZLMediaKit/.idea/
+
+ZLMediaKit/cmake-build-debug/
+#ZLMediaKit/cmake/
+
+ZLMediaKit/linux_build/
+ZLMediaKit/build/
+ZLMediaKit/ZLToolKit/bin_lib/
+
+ZLMediaKit/bin_lib/
